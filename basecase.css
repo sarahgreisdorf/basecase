@@ -1,0 +1,37 @@
+p {
+	color: #FEAA45;
+	font-size: 75px;
+	line-height: 5%;
+	font-weight: bold;
+
+}
+
+h1 {
+	color: #474747;
+}
+
+h3 {
+	color: #474747;
+}
+
+li {
+	color: #474747;
+}
+
+a { 
+	text-decoration: none;
+	color: #474747;
+ }
+
+
+body {
+	margin-left: 300px;
+	margin-top: 150px;
+	font-family: San Francisco;
+}
+
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+  }
